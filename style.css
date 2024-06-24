@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    color: #3E3E3E;
+    background-color: #ffffff;    
+}
+
+/* Header */
+
+header {
+    padding: 30px 2%;
+    margin: 0;   
+    width: 100%;	
+	display: block;
+}	
+
+.logo {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    color: #3E3E3E;    
+    font-size: 97%;
+    text-decoration: none;
+    text-align: center;  
+	display: block;	
+}
+
+.logo h1 {
+	font-size: 3em;
+}
+
+.logo h2 {
+	font-size: 2em;
+}
+
+.logo h1, h2 {
+	font-family: "Anton", sans-serif;
+	letter-spacing: 2px;
+	padding: 10px 0;
+}
+
+/* Main section */
+
+main {
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0;	
+}
+
+main p {	
+	width: 90%;
+	margin: 0 auto;	
+}
+
+section div {	
+	width: 90%;
+	margin: 20px auto;	
+	padding: 1%;
+}
+
+section div a {
+	text-decoration: none;
+}
+
+section div h3{	
+	color: #3E3E3E;
+	text-align: center;
+	padding: 2%;
+    font-weight: normal;	
+}
+
+img {
+	width: 100%;		
+	margin: 0 auto;
+	display: block;
+}
+
+/* Media query: tablets and larger */
+
+@media screen and (min-width: 768px) {
+	
+main p {	
+	width: 70%;		
+}
+
+section {
+	display: grid;	
+    grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	padding: 1% 10%;
+}
+   
+}
+
+
+/* Media query: narrow desktop */
+
+@media screen and (min-width: 992px) {
+
+
+
+section div {	
+	width: 80%;	
+}
+   
+
+}
+
+/* Media query: wide desktop */
+
+@media screen and (min-width: 1200px) {
+main p {	
+	width: 50%;		
+}   
+
+}
