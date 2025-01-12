@@ -82,7 +82,7 @@ img {
 	display: block;
 }
 
-/* Media query: tablets and larger */
+/* Media query: tablets */
 
 @media screen and (min-width: 768px) {
 	
@@ -90,12 +90,7 @@ main p {
 	width: 70%;		
 }
 
-section {
-	display: grid;	
-    grid-template-columns: 1fr 1fr;
-	grid-template-rows: 1fr 1fr;
-	padding: 1% 10%;
-}
+
    
 }
 
