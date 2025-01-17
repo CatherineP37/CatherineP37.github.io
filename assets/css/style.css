@@ -58,6 +58,7 @@ main p {
 section {
 	background-color: purple;
 	width: 60%;
+	margin: 0 auto;
 }
 
 section div {	
