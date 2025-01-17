@@ -74,6 +74,12 @@ section div {
 	background-color: blue;
 }
 
+.cover_image {
+	width: 50%;
+	margin: 0;
+	display: block;
+}
+
 
 img {
 	width: 100%;		
