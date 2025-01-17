@@ -68,7 +68,7 @@ section {
 }
 
 section div {	
-	width: 90%;
+	width: 100%;
 	margin: 20px auto;	
 	padding: 1%;
 	background-color: blue;
@@ -85,9 +85,6 @@ img {
 
 @media screen and (min-width: 768px) {
 	
-main p {	
-	width: 70%;		
-}
 
 
    
@@ -100,9 +97,6 @@ main p {
 
 
 
-section div {	
-	width: 60%;	
-}
    
 
 }
@@ -110,8 +104,6 @@ section div {
 /* Media query: wide desktop */
 
 @media screen and (min-width: 1200px) {
-main p {	
-	width: 50%;		
-}   
+
 
 }
