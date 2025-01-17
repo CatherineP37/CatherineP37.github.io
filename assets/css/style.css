@@ -17,8 +17,10 @@ header {
     padding: 30px 2%;
     margin: 0;   
     width: 100%;	
-	display: block;
-	background-color: green;
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }	
 
 .logo {
