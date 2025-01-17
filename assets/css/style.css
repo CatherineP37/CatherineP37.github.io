@@ -66,16 +66,6 @@ section div {
 	background-color: blue;
 }
 
-section div a {
-	text-decoration: none;
-}
-
-section div h3{	
-	text-align: center;
-	padding: 2%;
-    font-weight: normal;
-    color: #000000;	
-}
 
 img {
 	width: 100%;		
