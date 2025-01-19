@@ -48,6 +48,15 @@ ul {
 	
 }
 
+ul li {
+	display: inline;
+	list-style-type: none;
+}
+
+ul li a {
+	text-decoration: none;
+}
+
  
 nav ul {
 	line-height: 70px;
