@@ -42,7 +42,7 @@ header {
 nav a {
 	text-decoration: none;
 	background-color: GreenYellow;
-	list-style-type: none;
+	
 }
 
 nav a:hover {
