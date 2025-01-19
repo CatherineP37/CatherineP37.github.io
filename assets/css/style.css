@@ -39,12 +39,12 @@ header {
 	font-size: 3em;
 }
 
-.projects {
+nav a {
 	text-decoration: none;
 	background-color: GreenYellow;
 }
 
-.projects:hover {
+nav a:hover {
     font-weight: bold;
 }
 
