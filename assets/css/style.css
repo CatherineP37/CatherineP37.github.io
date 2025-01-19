@@ -100,6 +100,10 @@ main {
     background-color: red;
 }
 
+main ul {
+	list-style-position: inside;
+}
+
 
 
 section {
