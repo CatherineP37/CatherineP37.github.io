@@ -42,7 +42,7 @@ header {
 .breadcrumbs {
 	list-style-position: inside;
 	background-color: LightSkyBlue;
-	left: 0;
+	
 }
 
 .breadcrumbs li {
