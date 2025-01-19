@@ -53,15 +53,16 @@ nav ul {
 }
 
 nav ul li {
-	 list-style-type: none;
-    
-    color: pink;
+	 list-style-type: none;   
+
+	background-color: pink;
   
 	display: inline;
 }
 
 nav ul li a {
 	text-decoration: none;
+	background-color: light-green;
 }
 
 nav ul li a:hover {
