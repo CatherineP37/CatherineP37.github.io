@@ -47,9 +47,10 @@ ul {
 	
 }
 
+ 
 nav ul {
 	line-height: 70px;
-	background-color: light-blue;
+	background-color: DarkSeaGreen; 
 }
 
 nav ul li {
@@ -62,7 +63,7 @@ nav ul li {
 
 nav ul li a {
 	text-decoration: none;
-	background-color: light-green;
+	background-color: GreenYellow;
 }
 
 nav ul li a:hover {
