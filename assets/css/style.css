@@ -50,6 +50,11 @@ header {
 	list-style-type: none;
 }
 
+.breadcrumbs li:before{
+     content: "/\00a0";
+}
+
+
 .breadcrumbs li a {
 	text-decoration: none;
 }
