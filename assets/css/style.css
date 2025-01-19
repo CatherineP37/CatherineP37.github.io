@@ -39,32 +39,12 @@ header {
 	font-size: 3em;
 }
 
-
-nav ul {
-	line-height: 70px;
-	background-color: DarkSeaGreen; 
-	list-style-position: inside;
-}
-
-nav ul li {
-	 list-style-type: none;   
-
-	background-color: pink;
-  
-	display: inline;
-}
-
-nav {
-	background-color: yellow;
-	width: 30%;
-}
-
-nav ul li a {
+.projects {
 	text-decoration: none;
 	background-color: GreenYellow;
 }
 
-nav ul li a:hover {
+.projects a:hover {
     font-weight: bold;
 }
 
