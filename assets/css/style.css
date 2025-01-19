@@ -53,10 +53,9 @@ nav ul {
 
 nav ul li {
 	 list-style-type: none;
-    margin-right: 10px;
-    color: #503503;
-    padding-left: 20px;
-    padding-right: 20px;
+    
+    color: pink;
+  
 	display: inline;
 }
 
