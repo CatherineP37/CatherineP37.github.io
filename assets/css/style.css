@@ -21,7 +21,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    position: fixed;
+   
 }	
 
 .logo {
@@ -39,27 +39,7 @@ header {
 	font-size: 3em;
 }
 
-.breadcrumbs {
-	list-style-position: inside;
-	background-color: LightSkyBlue;
-	
-}
 
-.breadcrumbs li {
-	display: inline;
-	list-style-type: none;
-}
-
-.breadcrumbs li:before{
-     content: "/\00a0";
-}
-
-
-.breadcrumbs li a {
-	text-decoration: none;
-}
-
- 
 nav ul {
 	line-height: 70px;
 	background-color: DarkSeaGreen; 
@@ -105,7 +85,7 @@ main {
     background-color: red;
 }
 
-main ul {
+ul {
 	list-style-position: inside;
 }
 
