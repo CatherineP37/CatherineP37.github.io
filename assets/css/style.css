@@ -83,7 +83,7 @@ section div {
 	width: 100%;
 	margin: 20px auto;	
 	padding: 1%;
-	background-color: blue;
+	
 }
 
 .cover_image {
@@ -92,6 +92,17 @@ section div {
 	display: block;
 }
 
+.1 {
+	background-color: #0A1531;
+		}
+
+.2 {
+	background-color: #2C6262;
+		}
+
+.3 {
+	background-color: #0C4A93;
+		}
 
 img {
 	width: 100%;		
