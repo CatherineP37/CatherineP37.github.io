@@ -39,7 +39,8 @@ header {
 }
 
 nav {
-	background-color: yellow;	
+	background-color: yellow;
+	width: 30%;
 }
 
 ul {
