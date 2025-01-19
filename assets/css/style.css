@@ -46,6 +46,10 @@ ul {
 	list-style-position: inside;
 }
 
+nav ul li a {
+	text-decoration: none;
+}
+
 
 
 
