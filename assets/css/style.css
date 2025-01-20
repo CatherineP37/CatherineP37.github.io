@@ -75,11 +75,21 @@ main {
 	
 }
 
-section div {	
+section {	
 	width: 100%;
 	margin: 20px auto;	
 	padding: 1%;
-	
+	background-color: yellow;
+	display: grid;
+        grid-template-columns: 1fr 1fr;
+}
+
+.left {
+	background-color: pink;	
+}
+
+.right {
+	background-color: green;
 }
 
 .cover_image {
