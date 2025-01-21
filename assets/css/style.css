@@ -95,6 +95,12 @@ section {
 	display: block;
 }
 
+.cover_image {
+	width: 100%;
+	margin: 0;
+	display: block;
+}
+
 .right h2 {
 	text-align: center;
 	text-decoration: none;
