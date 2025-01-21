@@ -81,14 +81,12 @@ section {
 
 .left {
 	background-color: pink;
-	height: 100%;
-	width: 100%;
+	
 }
 
 .right {
 	background-color: green;
-	height: 100%;
-	width: 100%;
+	
 }
 
 .left, .right img {
