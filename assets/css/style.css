@@ -62,6 +62,10 @@ ul {
 	list-style-position: inside;
 }
 
+ul li {
+	font-family: Inter;
+}
+
 
 
 main {
