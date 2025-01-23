@@ -142,11 +142,17 @@ h1, h2, h3, h4, p {
 /* Media query: narrow desktop */
 
 @media screen and (min-width: 992px) {
-main {
-	background-color: #ffffff;
+
+header, main {
 	width: 60%;
-	margin: 0 auto;	
 }
+	
+
+
+
+
+
+
 
 
    
