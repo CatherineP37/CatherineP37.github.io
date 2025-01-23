@@ -44,6 +44,14 @@ nav a:hover {
     font-weight: bold;
 }
 
+h1 {
+	font-size: 100%;
+}
+
+.logo {
+	text-decoration: none;
+}
+
 /* Main section */
 
 body {
@@ -119,9 +127,7 @@ background-color: #2C6262;
 background-color: #0C4A93;
 }
 
-h1 {
-	font-size: 70%;
-}
+
 
 
 
