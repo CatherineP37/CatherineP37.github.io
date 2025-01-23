@@ -57,6 +57,12 @@ body {
     background-color: red;
 }
 
+main {
+	background-color: #ffffff;
+	width: 90%;
+	margin: 0 auto;	
+}
+
 
 ul {
 	list-style-position: inside;
