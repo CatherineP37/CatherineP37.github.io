@@ -31,9 +31,9 @@ header {
 
 
 nav a {
-	text-decoration: none;
-	background-color: GreenYellow;
+	text-decoration: none;	
 	font-family: Inter;
+	color: #000000;
 }
 
 nav a:hover {
