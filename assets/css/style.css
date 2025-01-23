@@ -9,8 +9,8 @@
 
 header {
     padding: 30px 2%;
-    margin: 0;   
-    width: 100%;	
+    margin: 0 auto;   
+    width: 90%;	
     background-color: green;
     display: flex;
     justify-content: space-between;
