@@ -35,7 +35,8 @@ header {
 
 nav a {
 	text-decoration: none;
-	background-color: GreenYellow;	
+	background-color: GreenYellow;
+	font-family: Inter;
 }
 
 nav a:hover {
