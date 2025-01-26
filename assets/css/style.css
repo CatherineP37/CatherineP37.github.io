@@ -101,15 +101,14 @@ section {
 }
 
 .right {
-	position: relative;
-	top: 50%;	
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
-.right h2 {
-	text-align: center;
+.right h2 {	
 	text-decoration: none;
-	color: #ffffff;
-	
+	color: #ffffff;	
 }
 
 .banking {
