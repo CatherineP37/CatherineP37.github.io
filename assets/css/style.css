@@ -102,8 +102,7 @@ section {
 
 .right {
 	position: relative;
-	top: 50%;
-	transform: translateY(-50%);
+	top: 50%;	
 }
 
 .right h2 {
