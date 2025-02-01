@@ -81,13 +81,13 @@ ul li {
 section {	
 	width: 100%;	
 	margin: 20px auto;	
-	padding: 1%;	
+	padding: 20%;	
 	display: grid;
         grid-template-columns: 1fr 1fr;
 }
 
 .left img {
-	width: 70%;		
+	width: 100%;		
 	margin: 0;
 	display: block;
 }
@@ -112,7 +112,7 @@ section {
 }
 
 .banking {
-background-color: #0A1531;
+background-color: #497cff;
 }
 
 .appointments {
